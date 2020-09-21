@@ -1,6 +1,6 @@
 # Geospatial-Center
 
-A repository for helpful scripts created by the Geospatial Center team.
+A repository for helpful scripts created by the Geospatial Center team. The Geospatial Center is a group of Solution Engineers across different teams within Esri. Through our day-to-day work, we often find ourselves creating helpful scripts for products across the ArcGIS software stack. This repo will hold those scripts as they become available.
 
 For more information contact Adam Pfister ([apfister@esri.com](apfister@esri.com))
 
