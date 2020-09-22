@@ -5,14 +5,14 @@ var industryarray = Sort([
   $feature["Administrative_and_Support_and_"],
   $feature["Agriculture__Forestry__Fishing_"],
   $feature["Arts__Entertainment__and_Recrea"],
-  $feature.Constructio,
+  $feature.Construction,
   $feature["Educational_Services"],
   $feature["Finance_and_Insurance"],
   $feature["Health_Care_and_Social_Assistan"],
-  $feature.Informatio,
+  $feature.Information,
   $feature["Management_of_Companies_and_Ent"],
-  $feature.Manufacturin,
-  $feature.Minin,
+  $feature.Manufacturing,
+  $feature.Mining,
   $feature["Not_Specified"],
   $feature["Other_Services__except_Public_A"],
   $feature["Professional__Scientific__and_T"],
@@ -20,7 +20,7 @@ var industryarray = Sort([
   $feature["Real_Estate_Rental_and_Leasing"],
   $feature["Retail_Trade"],
   $feature["Transportation_and_Warehousing"],
-  $feature.Utilitie,
+  $feature.Utilities,
   $feature["Wholesale_Trade"]
 ]);
 
