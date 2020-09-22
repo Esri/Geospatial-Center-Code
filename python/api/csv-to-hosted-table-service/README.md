@@ -2,7 +2,7 @@
 
 Original Author: Adam Pfister
 
-This python notebook will walk you through the steps of publishing a CSV file as a hosted feature layer or table. Additionally, you can specifiy that certain fields will be published as a string/text typeinstead of a numeric type.
+This python notebook will walk you through the steps of publishing a CSV file as a hosted feature layer or table. Additionally, you can specifiy that certain fields will be published as a string/text type instead of a numeric type.
 
 ### Customer or Use Case
 
