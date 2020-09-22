@@ -1,6 +1,7 @@
 ## Create Predominance Map with a lot of columns
 
 Original Author: Bonnie Stayer
+
 Ever wanted to create a predominance map but had too many columns to consider? I came up with this simple script to do just that. I'm back in the NAICS industry world, so the field names and output text reflect that (you'd obviously have to swap in whatever your working with)
 
 [View it Live](https://arcg.is/1avjXj)
