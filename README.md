@@ -10,6 +10,8 @@ Find a bug or want to request a new feature? Please let us know by submitting an
 
 ## Contributing
 
+If you'd like to contribute, please follow the [example template](https://github.com/Esri/Geospatial-Center-Code/issues/2) for what files and details are needed.
+
 Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing).
 
 ## Licensing
