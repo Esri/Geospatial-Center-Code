@@ -1,4 +1,4 @@
-# Geospatial-Center
+# Geospatial-Center-Code
 
 A repository for helpful scripts created by the Geospatial Center team. The Geospatial Center is a group of Solution Engineers across different teams within Esri. Through our day-to-day work, we often find ourselves creating helpful scripts for products across the ArcGIS software stack. This repo will hold those scripts as they become available.
 
@@ -14,7 +14,7 @@ Esri welcomes contributions from anyone and everyone. Please see our [guidelines
 
 ## Licensing
 
-Copyright 2016 Esri
+Copyright 2020 Esri
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
