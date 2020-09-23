@@ -1,8 +1,12 @@
 ## Python
 
+---
+
 When developing with Python within the ArcGIS platform, you have two options, **ArcPy**, and/or the **ArcGIS API for Python**
 
 ### ArcPy
+
+`arcpy`
 
 ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
 
@@ -11,6 +15,8 @@ This package provides a rich and native Python experience offering code completi
 For more information, visit the [Homepage](https://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm).
 
 ### ArcGIS API for Python
+
+`api`
 
 The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both in an interactive fashion, as well as using scripts.
 
