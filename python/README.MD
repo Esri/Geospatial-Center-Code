@@ -24,6 +24,8 @@ It enables power users, system administrators and developers to leverage the ric
 
 For more information, visit the [Homepage](https://developers.arcgis.com/python/).
 
+### Miscellaneous
+
 `misc`
 
 For any other Python scripts that may not be directly related to ArcGIS, but are helpful across the framework.
