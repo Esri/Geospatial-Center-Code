@@ -23,3 +23,7 @@ The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library
 It enables power users, system administrators and developers to leverage the rich SciPy ecosystem for automating their workflows and performing repetitive tasks using scripts. It integrates well with the Jupyter Notebook and enables academics, data scientists, GIS analysts and visualization enthusiasts to share geo-enriched literate programs and reproducible research with others.
 
 For more information, visit the [Homepage](https://developers.arcgis.com/python/).
+
+`misc`
+
+For any other Python scripts that may not be directly related to ArcGIS, but are helpful across the framework.
