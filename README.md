@@ -8,28 +8,31 @@ For more information contact Adam Pfister ([apfister@esri.com](apfister@esri.com
 
 **If you'd like to contribute, please follow the [example template](https://github.com/Esri/Geospatial-Center-Code/issues/2) for what files and details are needed.**
 
-Generally, you can follow this workflow for contributing:
+[Visual Studio Code](https://code.visualstudio.com/) is a great IDE to use with strong and easy-to-use GitHub integration. Generally, you can follow this workflow for contributing using VSCode:
 
-- Cloning the repo
-  - Making a local copy of the repo on your machine
-- Creating a branch
-  - You’ll make your changes/additions here first
-- Adding your script(s)
-  - Literally creating folders/files for your scripts
-- Staging the changes
-  - For example, if you have 10 files, but only want to add 3 of them, you would “stage” only those 3 files
-- Writing a commit message
-  - A short descriptive message about what’s being added/changed
-- Committing your new additions to your new branch
-  - Move your additions/changes from “staged” to “committed” in your branch only
-- Push changes to your new branch to the remote repo on Github.com
-  - Send the additions/changes from your local machine to the remote repo on GH.com
-  - This results in creating a remote version of your branch in the remote repo on GH.com
-- Create a Pull Request (commonly referred to as a “PR”) to merge your new branch into the “master” branch
-  - Create a request that will merge your branch into the “master” branch
-  - Comments/discussion can happen around this pull request as needed
-- Merging your changes/additions into the master branch
-  - This will merge your branch into the “master” branch and make your script available to all!
+- In VSCode
+  - Cloning the repo
+    - Making a local copy of the repo on your machine
+  - Creating a branch
+    - You’ll make your changes/additions here first
+  - Adding your script(s)
+    - Literally creating folders/files for your scripts
+  - Staging the changes
+    - For example, if you have 10 files, but only want to add 3 of them, you would “stage” only those 3 files
+  - Writing a commit message
+    - A short descriptive message about what’s being added/changed
+  - Committing your new additions to your new branch
+    - Move your additions/changes from “staged” to “committed” in your branch only
+  - Push changes to your new branch to the remote repo on Github.com
+    - Send the additions/changes from your local machine to the remote repo on GH.com
+    - This results in creating a remote version of your branch in the remote repo on GH.com
+- On Github.com
+  - Create a Pull Request (commonly referred to as a “PR”) to merge your new branch into the “master” branch
+    - Create a request that will merge your branch into the “master” branch
+    - Comments/discussion can happen around this pull request as needed
+  - Merging your changes/additions into the master branch
+    - This will merge your branch into the “master” branch and make your script available to all!
+- Delete your local and remote branches
 
 _Esri welcomes contributions from anyone and everyone. Please see our [guidelines for contributing](https://github.com/esri/contributing)._
 
