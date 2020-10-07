@@ -4,7 +4,7 @@ A repository for helpful scripts created by the Geospatial Center team (and othe
 
 For more information contact Adam Pfister ([apfister@esri.com](apfister@esri.com))
 
-## Contributing
+## Contributing to the best code in the world!
 
 **If you'd like to contribute, please follow the [example template](https://github.com/Esri/Geospatial-Center-Code/issues/2) for what files and details are needed.**
 
