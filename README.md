@@ -11,8 +11,10 @@ For more information contact Adam Pfister ([apfister@esri.com](apfister@esri.com
 [Visual Studio Code](https://code.visualstudio.com/) is a great IDE to use with strong and easy-to-use GitHub integration. Generally, you can follow this workflow for contributing using VSCode:
 
 - In VSCode
-  - Cloning the repo
-    - Making a local copy of the repo on your machine
+  - Cloning the repo: Making a local copy of the repo on your machine
+    - Open up the command prompt
+    - Navigate to a directory to copy contents
+    - Use the command: git clone [repository] (e.g. git clone https://github.com/Esri/Geospatial-Center-Code/)
   - Creating a branch
     - You’ll make your changes/additions here first
   - Adding your script(s)
