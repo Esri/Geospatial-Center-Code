@@ -6,7 +6,7 @@ import shutil
 import time
 from customErrors import DirectoryNotFoundError
 
-logging.basicConfig(level=logging.INFO)
+# logging.basicConfig(level=logging.INFO)
 
 class FileDownloader:
 
@@ -24,8 +24,16 @@ class FileDownloader:
         self._validateUrl(url)
         self.url = url
         self.fileName = url.split('/')[-1] 
+
+        # if saveDir != os.path.abspath(os.path.dirname(__file__)):
+        #     saveDir = os.path.join(os.path.abspath(os.path.dirname(__file__)), saveDir)
+        if saveDir != os.getcwd():
+            saveDir = os.path.join(os.getcwd(), saveDir)
+            saveDir = os.path.normpath(saveDir)
+            # saveDir = os.path.normcase(saveDir)
         self._validatesaveDir(saveDir)
         self.saveDir = saveDir
+
         self.fullPath = os.path.join(self.saveDir, self.fileName)
         self._logger = logging.getLogger('FileDownloader')
         self._logger.setLevel(logging.INFO)
@@ -33,7 +41,7 @@ class FileDownloader:
 
     def _validateUrl(self, url:str):
         try:
-            r = requests.get(url)
+            r = requests.get(url, stream=True)
         except requests.exceptions.MissingSchema:
             raise requests.exceptions.MissingSchema(f'Invalid url: {url}')
         else:
